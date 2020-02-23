@@ -1,0 +1,28 @@
+
+body {
+    background-color: lightskyblue;
+}
+h3 {
+    color:blue;
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+.align-center{
+    text-align: center;   
+}
+#number{
+    align-content: center;
+}
+#output{
+    background-color: whitesmoke;
+    font-size: 40px;
+    text-align: center;
+    color: red;
+}
