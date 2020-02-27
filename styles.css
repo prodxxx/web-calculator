@@ -1,4 +1,3 @@
-
 body {
     background-color: lightskyblue;
 }
@@ -6,11 +5,11 @@ h3 {
     color:blue;
     text-align: center;
 }
-
+ 
 h4{
     text-align: center;
 }
-
+ 
 p{
     text-align: center;
 }
@@ -20,21 +19,23 @@ p{
 #number{
     align-content: center;
 }
-
+ 
 .inputbox{
     border-radius: 15px;
     align-items: center;
     align-content: center;
     text-align: center;
 }
-
+ 
 .buttons{
     align-items: center;
     color: red;
+    border-radius: 15px;
 }
-
+ 
 #output{
     background-color: whitesmoke;
+    border-radius: 150px;
     font-size: 40px;
     text-align: center;
     color: red;
