@@ -20,6 +20,19 @@ p{
 #number{
     align-content: center;
 }
+
+.inputbox{
+    border-radius: 15px;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+.buttons{
+    align-items: center;
+    color: red;
+}
+
 #output{
     background-color: whitesmoke;
     font-size: 40px;
